@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "aiko- 『ボーイフレンド』music video",
+  "base_artist": "aiko",
+  "createdAt": "2026-03-27T10:16:12.186592Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "aikoが歌うピクミン愛の歌",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_aikoが歌うピクミン愛の歌_aiko.txt"
+    }
+  ]
+}
